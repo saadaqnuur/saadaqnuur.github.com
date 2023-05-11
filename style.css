@@ -1,6 +1,7 @@
 /* Set the body background color */
 body {
-    background-color: #f8f8f8;
+    background-color: #343441;
+
   }
   
   /* Set the main container width and center it */
@@ -11,9 +12,11 @@ body {
   
   /* Set the header background color */
   header {
+    
     background-color: #333;
     color: #fff;
     padding: 20px;
+    background-color: 343441;
   }
   
   /* Set the link color */
@@ -45,8 +48,9 @@ body {
     width: 100%;
     padding: 0px;
     padding-right: 0px;
-    background-color: #005dab;
+    background-color: 41414E;
     position: fixed;
+    height: 13%;
     left: 0;
     right: 0;
     bottom: 0;
@@ -64,5 +68,9 @@ body {
 
   .section3 {
     background-color: #333;
+  }
+
+  p {
+    color: #E1E0E2
   }
   
